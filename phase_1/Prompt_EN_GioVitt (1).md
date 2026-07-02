@@ -40,6 +40,7 @@ A more extended explanation of what the interviewee says about that theme, prese
 
 **Key quotations or formulations**
 If useful, include short and significant formulations from the interviewee, without over-paraphrasing and without inventing anything. You can put them into “…”
+Also the quotations must be relevant for the context of the book.
 
 **Methodological rules**
 
