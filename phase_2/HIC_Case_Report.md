@@ -1,119 +1,110 @@
 # HIC — Habitat International Coalition
 ## Analytical Case Report — Phase 2 (Nets4DEM)
 
-> **Source:** IFP11, Lorena Zarate (ex-Coordinator of HIC, co-founder of Global Platform for the Right to the City). Single interview, June 2026. (Note: Nelson Saule jr, IFP15, also tagged HIC but no transcript file available.)
+> **Source:** IFP11 — Lorena Zarate (ex-President of HIC, co-coordinator of the Global Platform for the Right to the City). Single interview, June 2026.
 
 ---
 
 ## 1. Case Overview
 
-**What HIC is:** Habitat International Coalition (HIC) is a global coalition and network of civil society organizations, grassroots movements, NGOs, academics, and researchers working on housing, habitat, and the right to the city. Founded in 1976 (pre-Habitat I), it has operated for nearly 50 years across multiple scales — local, national, regional, and international. HIC is not a single-issue network but a multi-actor, multi-scale coalition that engages simultaneously with UN processes (Habitat I, II, III), special rapporteurs, local governments through UCLG, and community-based organizations worldwide.
+**What HIC is:** Habitat International Coalition (HIC) is one of the oldest civil society networks in the housing and habitat field, spanning over four decades. It began as a council and evolved into a permanent coalition, operating as an international NGO with a presence across all world regions. HIC brings together civil society organisations (NGOs, professional teams), grassroots and community-based organisations (including federations of housing cooperatives and tenants' movements), social movements, and academic researchers.
 
-**Central source:** IFP11 (Lorena Zarate), ex-Coordinator of HIC and co-founder/co-coordinator of the Global Platform for the Right to the City. Her interview bridges HIC's history with the Platform's emergence, providing a perspective on how networks evolve, split, and recombine.
+**Central source:** Lorena Zarate, a former President of HIC and currently co-coordinator of the Global Platform for the Right to the City (GPR2C). Her interview provides a retrospective and critical perspective on HIC's internal dynamics and sustainability challenges.
 
-**What the case is mainly about:** HIC represents a model of **coalition-as-complex-adaptive-system** — a network that sustains itself over decades by embracing internal diversity (NGOs, grassroots organizations, social movements, academics), operating at multiple scales simultaneously, and strategically pivoting between scales when one becomes blocked. It also illustrates the **tension between naming and form**: "coalition" vs. "network" vs. "platform" — terms that reflect strategic choices about identity and positioning.
+**What the case is mainly about:** HIC represents a long-standing civil society network confronting a triple sustainability crisis — intergenerational renewal, financial precarity, and governance ossification. It illustrates how decades-old networks navigate racial and cultural tensions, the strategic importance of counter-data production, and the relationship between a "parent" coalition and the multi-network platforms it helps spawn.
 
 ---
 
 ## 2. Dimension-by-Dimension Analysis
 
-### Dimension 1: Organisational Identity — Coalition, Network, or Platform?
+### Dimension 1: Organisational Identity — The Coalition That Became Permanent
 
 **Presence: STRONGLY PRESENT** (IFP11, Lorena Zarate)
 
-*The naming question:* Lorena reflects on the significance of names: HIC is a "coalition," while the Right to the City initiative became a "Platform." She notes the term "platform" originated from a technological metaphor — *"a place where you deposit material... first a tool and then a name for a group"* (IFP11, Lorena Zarate, quoting Nelson Saule). The choice of "coalition" for HIC signals a political alliance of diverse actors, while "platform" signals a more open, multi-network collaborative space.
+HIC identifies as a coalition carrying specific political intentionality — a bounded, politically defined membership with a shared agenda. Its membership spans "civil society organisations — NGOs, professional-based institutions — then grassroots organisations that can be thousands of people, like federations of housing co-ops, and broader social movements. And also academics and researchers" (IFP11, Zarate). This diversity is both its strength and its weakness.
 
-*Multi-actor identity:* HIC explicitly embraces diversity: *"Complexity is at the same time the richness of these kind of institutions, but it's also a big challenge. We're talking about complexity and diversity of actors... NGOs, professional-based institutions, grassroots organizations, community-based organizations, broader social movements, academics and researchers"* (IFP11, Lorena Zarate). This internal diversity is both HIC's strength and its operational challenge.
+HIC began as a council, "then turned as a coalition, and then they're still running" — defying the dictionary definition of coalition as a temporary, campaign-oriented body. This permanence is atypical and has produced both field-level influence and organisational ossification.
 
-*Longevity:* Nearly 50 years of existence (since 1976) places HIC among the longest-surviving networks in the Nets4DEM corpus. This longevity is attributed to strategic multi-scalarity: when progress stalls at one scale, HIC pivots to another.
+Zarate describes a history of competition in the habitat field — HIC competing with Habitat for Humanity, CORE, the International Alliance of Inhabitants, and regional networks: "I saw that kind of dispersion. It was a splitting, but also dispersion and fragmentation" (IFP11, Zarate).
 
-### Dimension 2: Membership, Composition, and Inclusion
+### Dimension 2: Membership — Radical Diversity and Internal Tensions
 
 **Presence: STRONGLY PRESENT** (IFP11, Lorena Zarate)
 
-*Actor diversity:* HIC includes NGOs, grassroots/community-based organizations (some with thousands of members, like housing cooperative federations), social movements, and academics. The inclusion of movements alongside professional NGOs creates internal tensions but also unique legitimacy — HIC can speak both to UN forums and to street-level organizing.
+HIC's multi-layer membership creates structural tensions. The George Floyd killing triggered internal discussions: "That brought to HIC and some other networks a wave of internal discussions around the racial issues and power imbalances" (IFP11, Zarate). These operated not just between regions ("how much representation gets Latin America vis-à-vis Africa") but within regions — the multiple layers of racial hierarchy.
 
-*Multi-scalar membership:* HIC operates at local, national, regional, and international scales simultaneously. This is a deliberate strategy: *"When we see setbacks at any of those scales, then we use the other scales to maintain pressure and maintain working together"* (IFP11, Lorena Zarate). The trans-local scale — connecting local actions across geographies — is particularly important: *"The articulation of actions at the local scale has been something different from the national scale, the regional scale and international scale"* (IFP11, Lorena Zarate).
+Language creates structural discrimination: "When you choose English, you're kind of changing your mindset in political terms. We lose a lot of political knowledge" (IFP11, Zarate). Diversifying languages has financial implications smaller member organisations cannot absorb.
 
-*Relation with governments:* HIC works with local and regional governments (especially through UCLG), but maintains an explicitly critical stance toward national governments: *"In many cases, local governments and civil society at the local level doing that despite and in many cases even confronting and openly confronting national governments"* (IFP11, Lorena Zarate).
+Cultural battles are imported into the coalition. The interviewer witnessed a HIC General Assembly conflict between a women's organisation from Africa that refused to serve alongside LGBT organisations. Zarate notes that housing movements lag behind feminist and environmental movements in addressing these dynamics explicitly.
 
-*The bread/sandwich strategy:* The interviewer observes that HIC works effectively at the two extremes (local and global/multilateral) while national governments are the hardest to reach — *"the center of the sandwich is the most difficult"* (IFP11, Lorena Zarate, confirmed by the interviewer). This multi-scalar strategy bypasses resistant national governments by connecting local action directly to global advocacy.
+The paid/unpaid divide — salaried staff versus elected political representatives who receive no salary — creates another layer of internal tension: "Those tensions are also difficult to navigate" (IFP11, Zarate).
 
-### Dimension 3: Governance — Coalition Logic
+### Dimension 3: Governance — Regional Representation with Power Imbalances
 
 **Presence: PARTIALLY PRESENT** (IFP11, Lorena Zarate)
 
-*Coalition governance:* As a coalition, HIC's governance involves negotiation among diverse member types — professional NGOs, grassroots federations, social movements, and academics — each with different organizational cultures, decision-making speeds, and resource bases.
+HIC is organised around regional representation, with member organisations electing board representatives from each region. This means "the regional culture will influence the discourse and the position of those organisations representing those regions at the HIC board" (IFP11, Zarate). Regions with stronger civil society infrastructure have disproportionate voice.
 
-*Platform as meta-governance:* The Global Platform for the Right to the City represents a governance innovation — a space where multiple networks (including HIC) collaborate without merging. This creates a two-level governance structure: coalition governance within HIC, and platform governance across networks.
+The presidency rotates among regions — a deliberate power-distribution mechanism. Formal complaint procedures exist, and HIC is engaged in "a series of transregional learning spaces and co-creation and dialogue" to address internal tensions. Zarate judges these as "a good path, but they have to go further."
 
-*Alignment challenges:* *"You can imagine the complexity of working across those different lines, aligning priorities, visions, narratives, strategies"* (IFP11, Lorena Zarate). The governance challenge is maintaining coherence across actors with fundamentally different organizational logics.
-
-### Dimension 4: Resources and Sustainability
-
-**Presence: MARGINALLY PRESENT** (IFP11, Lorena Zarate)
-
-*Resource model not detailed in this interview.* The 50-year survival of HIC implies resource resilience, but specific funding structures, grant dependencies, or financial strategies are not discussed. This dimension would require additional data.
-
-### Dimension 5: External Relations — The UCLG Partnership
+### Dimension 4: Resources — From Long-Term Partnership to Precarious Projects
 
 **Presence: STRONGLY PRESENT** (IFP11, Lorena Zarate)
 
-*UCLG relationship:* HIC has worked closely with UCLG for over 10 years — a partnership that brings together civil society and local governments around shared agendas. This is not without tension: HIC maintains its critical stance even while collaborating with government networks.
+HIC historically benefited from long-standing, partnership-based funding — "long-standing commitments like we used to have 20 years ago. There were really partnerships in de facto, a commitment to work together in the long run" (IFP11, Zarate). The current reality is short-term, project-based funding with narrow outcome requirements.
 
-*Global advocacy moments:* HIC strategically uses global events (Habitat I, II, III, UN forums) as advocacy windows: *"When we see windows of opportunity to advance advocacy at that level, we do that"* (IFP11, Lorena Zarate). The network accumulates experience and relationships across these moments, building long-term advocacy capacity.
+The narrative of philanthropic foundations promising "more systemic support, transformative support" is "more on paper than on the reality so far" (IFP11, Zarate). Zarate identifies the role of external actors in driving fragmentation: "There is a role of philanthropies. There is a very strong role of national governments, and also multilateral agencies like the World Bank" — actively pitting organisations against each other through funding strategies.
 
-*Special rapporteurs and standard-setting:* HIC engages with UN human rights mechanisms, using international law as both advocacy tool and accountability framework.
-
-### Dimension 6: Knowledge and Learning — The Trans-Local Laboratory
-
-**Presence: PARTIALLY PRESENT** (IFP11, Lorena Zarate)
-
-*Bottom-up knowledge production:* HIC's knowledge model reverses the typical flow: *"We didn't see that coming from the global agendas first. That was something that local governments and civil society organizations working together were piloting at the local level and then working with the multilateral system to try to also influence national governments"* (IFP11, Lorena Zarate). The example given is care policies and local care systems in Latin America.
-
-*Evidence from practice:* The network generates knowledge from grounded experience rather than top-down research agendas. This practitioner-led knowledge production gives HIC distinctive credibility in global forums.
-
-### Dimension 7: Adaptation — Multi-Scalar Resilience
+### Dimension 5: External Relations — Multilateral Advocacy and the GPR2C
 
 **Presence: STRONGLY PRESENT** (IFP11, Lorena Zarate)
 
-*Scale-switching as survival strategy:* HIC's defining adaptive capacity is its ability to pivot between scales: *"When we see setbacks at any of those scales, then we use the other scales to maintain pressure and maintain working together"* (IFP11, Lorena Zarate). If national governments block progress, the network shifts to local or global advocacy. This multi-scalar flexibility is the key to 50-year survival.
+HIC has engaged with UN processes — Habitat I, II, III and "everything in between" — plus sustained work with special rapporteurs on the right to housing. It has worked "very closely with UCLG for the past more than 10 years" (IFP11, Zarate).
 
-*The Platform as adaptive evolution:* The creation of the Global Platform for the Right to the City represents an adaptive response — recognizing that no single network (not even HIC) can address the full complexity of urban rights alone. The Platform enables multi-network collaboration while preserving each network's identity.
+The creation of the Global Platform for the Right to the City was Zarate's direct response to HIC's competitive fragmentation: "We're kind of competing for attention, membership, funding, voice and political advocacy. That makes no sense. I was really upset with that" (IFP11, Zarate).
 
-### Dimension 8: Commoning — The Right to the City as Commons
+HIC's discourse — formerly marginal — is now mainstream: "20 years ago we were discussing the need for the public sector to play a bigger role. We were the crazy ones. Now that's the common sense discourse" (IFP11, Zarate). This creates both opportunities for alignment and risks of concept hijacking by actors who use the language without the commitment.
+
+### Dimension 6: Knowledge — Counter-Data Production as Core Competency
+
+**Presence: STRONGLY PRESENT** (IFP11, Lorena Zarate)
+
+HIC produces its own data on evictions, housing precarity, and informal settlements — topics governments systematically underreport: "The special rapporteur on the right to housing has been asking for these for the past 20 years. Governments don't do that" (IFP11, Zarate).
+
+HIC Latin America "during the pandemic was doing monitoring housing precarity and eviction threats — something the national government or the media were not doing. And that became a huge thing" (IFP11, Zarate). The media amplifies even methodologically limited counter-data when it fills an information vacuum: "When you produce your own data, the media actually pays attention" (IFP11, Zarate).
+
+Epistemic balancing is required — defending science against far-right attacks while questioning whose knowledge counts: "We need Indigenous knowledge hand in hand with the more academic and formal Western knowledge, working together" (IFP11, Zarate).
+
+### Dimension 7: Adaptation — The Triple Sustainability Crisis
+
+**Presence: STRONGLY PRESENT** (IFP11, Lorena Zarate)
+
+Three interconnected crises: **intergenerational dialogue** — "I'm not sure we are doing enough. I see a weakness there" (IFP11, Zarate). **Financial sustainability** — short-term project funding undermines stability. **Leadership renewal** — the founding generation remains dominant 30-50 years later. Each crisis deepens the others: financial precarity deters young leaders, preventing method updates, reducing attractiveness to funders.
+
+### Dimension 8: Commoning
 
 **Presence: PARTIALLY PRESENT** (IFP11, Lorena Zarate)
 
-*The right to the city as a commons framework:* HIC's advocacy for the "right to the city" implicitly frames the city as a commons — a shared space that should be collectively governed rather than commodified. The network's work on housing, habitat, and urban rights embodies commoning principles.
-
-*Platform as shared infrastructure:* The Global Platform functions as a commons infrastructure for multiple networks, providing shared advocacy space without requiring organizational merger.
+Counter-data production is a commons-building practice — creating collectively owned information resources that enable shared advocacy. The dominance of English represents an anti-commons dynamic, excluding knowledges and political cultures. The GPR2C was an attempt to restore a commons logic across the fragmented habitat field.
 
 ### Dimension 9: Impacts
 
-**Presence: MARGINALLY PRESENT** (IFP11, Lorena Zarate)
+**Presence: PARTIALLY PRESENT** (IFP11, Lorena Zarate)
 
-*Global agenda influence:* HIC has shaped international urban policy through Habitat conferences and UN processes over 50 years. Specific impacts include contributions to the New Urban Agenda and right to the city frameworks.
-
-*Local-level impacts through trans-local action:* Care systems in Latin America cited as an example of bottom-up policy innovation that traveled through HIC's networks to influence global agendas.
-
-*Limitation:* No systematic impact metrics provided. Impact claims are process-oriented rather than outcome-measured.
+HIC has shaped the global discourse on housing rights for over four decades. Its eviction monitoring and counter-mapping fill a government vacuum. Its UN engagement has contributed to international standard-setting. One of its most significant impacts is indirect — spawning the GPR2C, a "network of networks" designed to overcome the fragmentation HIC experienced.
 
 ---
 
 ## 3. Cross-Cutting Analytical Themes
 
-### Theme 1: Multi-Scalarity as Survival Strategy
+### Theme 1: The Triple Sustainability Crisis
+Intergenerational gap, financial precarity, and leadership ossification mutually reinforce each other. The founding generation remains dominant across organisations that have "more than three decades now, four decades, five, even six" (IFP11, Zarate). Short-term project funding prevents stable livelihoods for younger potential leaders.
 
-HIC's 50-year survival is attributed to its ability to operate at multiple scales simultaneously and pivot between them strategically. When national governments block progress, the network shifts to local action or global advocacy. This "scale-switching" capability is the network's core adaptive mechanism (IFP11, Lorena Zarate).
+### Theme 2: Fragmentation as Internal and External
+The habitat field's fragmentation is driven by both internal dynamics (personalities, egos) and external forces — philanthropies, national governments, and multilateral agencies that deploy funding strategies to divide. Recognising this external dimension is essential to understanding why competitive dynamics persist.
 
-### Theme 2: Coalition vs. Network vs. Platform — The Politics of Naming
-
-HIC calls itself a "coalition" — a term with political connotations of alliance and shared struggle. The Right to the City initiative chose "Platform" — a more open, technologically-inflected term. These naming choices reflect different theories of how collective action should be organized (IFP11, Lorena Zarate).
-
-### Theme 3: The Bread/Sandwich Strategy
-
-HIC works effectively at the extremes (local communities, global UN forums) while national governments remain the hardest to reach. This creates a distinctive advocacy geometry — bypassing resistant national governments by connecting local action directly to global frameworks (IFP11, Lorena Zarate).
+### Theme 3: Counter-Data as Epistemic and Political Practice
+HIC's data production is simultaneously epistemic (creating knowledge the state refuses to produce) and political (enabling advocacy, accountability, and mobilisation). The media's willingness to amplify even methodologically limited counter-data — because it fills a vacuum — is a significant finding.
 
 ---
 
@@ -121,37 +112,31 @@ HIC works effectively at the extremes (local communities, global UN forums) whil
 
 | Theme | Quotation |
 |---|---|
-| Complexity as strength | *"Complexity is at the same time the richness of these kind of institutions, but it's also a big challenge"* (IFP11, Lorena Zarate) |
-| Scale-switching | *"When we see setbacks at any of those scales, then we use the other scales to maintain pressure"* (IFP11, Lorena Zarate) |
-| Bottom-up knowledge | *"We didn't see that coming from the global agendas first. That was something local governments and civil society were piloting at the local level"* (IFP11, Lorena Zarate) |
-| Confronting national governments | *"Local governments and civil society... in many cases even confronting and openly confronting national governments"* (IFP11, Lorena Zarate) |
-| Actor diversity | Including "NGOs... grassroots organizations... social movements... academics... local and regional governments" (IFP11, Lorena Zarate) |
+| Diversity as identity | *"Civil society organisations, grassroots organisations that can be thousands, social movements, academics"* (IFP11, Zarate) |
+| Racial tensions | *"That brought a wave of internal discussions around racial issues and power imbalances"* (IFP11, Zarate) |
+| Language as power | *"When you choose English, you're changing your mindset in political terms"* (IFP11, Zarate) |
+| Funded fragmentation | *"There is a role of philanthropies, national governments, and the World Bank"* (IFP11, Zarate) |
+| Counter-data impact | *"When you produce your own data, the media actually pays attention"* (IFP11, Zarate) |
+| Intergenerational weakness | *"I'm not sure we are doing enough. I see a weakness there"* (IFP11, Zarate) |
+| From marginal to mainstream | *"20 years ago we were the crazy ones. Now that's the common sense discourse"* (IFP11, Zarate) |
 
 ---
 
-## 5. Suggested Chapter Structure
-
-1. **The 50-Year Coalition** — HIC's longevity as a case of multi-scalar resilience
-2. **The Politics of Naming** — Coalition, network, platform: what names reveal about organizational theory
-3. **The Bread/Sandwich Strategy** — Working the extremes when the middle resists
-4. **From HIC to the Platform** — Network evolution through meta-networking
-5. **Bottom-Up Knowledge** — How practitioner knowledge travels from local experiments to global agendas
-
----
-
-## 6. Quick Resume Table
+## 5. Quick Resume Table
 
 | Aspect | Detail |
 |---|---|
-| **Name** | HIC — Habitat International Coalition |
-| **Founded** | 1976 (pre-Habitat I) |
-| **Form** | Multi-actor coalition: NGOs, grassroots, social movements, academics |
-| **Scale** | Local, national, regional, international simultaneously |
-| **Key Partners** | UCLG (10+ years), Global Platform for the Right to the City |
-| **Strategy** | Multi-scalar advocacy; scale-switching when blocked |
-| **Distinctive Trait** | 50-year survival through multi-scalarity; bottom-up knowledge model |
-| **Key Challenge** | Aligning diverse actors (NGOs, movements, governments) |
-| **Source** | IFP11, Lorena Zarate (single interview) |
+| **Name** | Habitat International Coalition (HIC) |
+| **Founded** | Over 40 years ago (evolved: council → coalition) |
+| **Form** | International coalition / NGO |
+| **Membership** | NGOs, grassroots/community-based organisations, social movements, academics |
+| **Governance** | Regional representation model with rotating presidency |
+| **Key Activities** | Multilateral advocacy, counter-data production, eviction monitoring |
+| **Key Partnerships** | UN-Habitat, UN special rapporteurs, UCLG |
+| **Key Challenges** | Intergenerational renewal, financial sustainability, racial/cultural tensions |
+| **Distinctive Practice** | Counter-data production (eviction monitoring, informal settlement mapping) |
+| **Related Entity** | Global Platform for the Right to the City (GPR2C) |
+| **Source** | IFP11 — Lorena Zarate (ex-President of HIC), June 2026 |
 
 ---
 
