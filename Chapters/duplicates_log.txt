@@ -1,0 +1,6 @@
+DUPLICATE: key=allegretti|2019
+  Allegretti, G. (2019). BP vs NPM: Deux acronymes, deux mondes opposés ou étroitement liés? In N. Matyjasik & M. Guenoun 
+
+DUPLICATE: key=mc|2021
+  McNulty, S., & No, W. (2021). *Participatory budgeting via national law: What works and what doesn't*. People Powered.
+
